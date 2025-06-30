@@ -238,6 +238,13 @@ sup {
   vertical-align: baseline;
 }
 
+/* Custom style to increase project accordion header font size */
+#projects .accordion-button {
+    font-size: 1.25rem;
+    font-weight: 600;
+}
+
+
 sub {
   bottom: -0.25em;
 }
